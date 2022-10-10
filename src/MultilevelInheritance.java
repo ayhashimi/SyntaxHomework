@@ -1,0 +1,9 @@
+class MultilevelInheritance
+{
+
+}
+
+class Main
+{
+
+}
