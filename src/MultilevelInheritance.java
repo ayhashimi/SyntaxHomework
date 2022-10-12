@@ -1,3 +1,4 @@
+/*
 class MultilevelInheritance
 {
 
@@ -6,4 +7,4 @@ class MultilevelInheritance
 class Main
 {
 
-}
+}*/
