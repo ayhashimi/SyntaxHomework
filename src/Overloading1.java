@@ -1,4 +1,4 @@
-class Overriding1
+class Overloading1
 {
     public int calculateArea(int side)
     {
@@ -23,7 +23,7 @@ class Main
 {
     public static void main(String[] YARRRRRRRGGGGSSSSSPIRATES)
     {
-        Overriding1 square = new Overriding1();
+        Overloading1 square = new Overloading1();
         System.out.println(square.calculateArea(5));
         System.out.println(square.calculateArea(5, 6));
         System.out.println(square.calculateArea(5, 6, 7));
