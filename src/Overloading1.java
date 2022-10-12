@@ -1,3 +1,4 @@
+/*
 class Overloading1
 {
     public int calculateArea(int side)
@@ -98,6 +99,7 @@ class Main
 
 
 
+*/
 /*
 
 
@@ -112,34 +114,36 @@ Create 1 class in which create a methods that will calculate the area (volume in
 
 
 
+*//*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
